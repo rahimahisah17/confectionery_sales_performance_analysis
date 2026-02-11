@@ -35,6 +35,31 @@ I structured the analysis to solve the following requirements:
 ![Regional Page](Images/dashboard_preview_three.png)
 *Figure 3: Mapping regional strengths and customer revenue concentration.*
 
+## 🔍 Strategic Business Insights & Recommendations
+
+Based on the 3-page diagnostic analysis, several high-impact insights were identified to drive profitability and operational efficiency:
+
+### **1. Revenue Concentration & Portfolio Risk**
+* **The Anchor Effect:** Analysis reveals that the **Total Revenue of $1.89M** is heavily anchored by two primary products: **Chocolate Truffles** and **Nougat**. 
+* **Business Risk:** Over-reliance on these two items poses a strategic risk if supply chain disruptions occur or market preferences shift. 
+* **Recommendation:** Diversify revenue by cross-selling underperforming lines to the high-volume Wholesale segment to balance the product mix.
+
+### **2. Regional Performance & Market Penetration**
+* **Western Powerhouse:** The **West Region** is the clear market leader, significantly outperforming the Midwest and Northeast. This is driven by a high concentration of **Distributor** accounts which yield a superior revenue-per-order ratio.
+* **Opportunity Gap:** The **Northeast** shows the lowest market penetration despite having a high population density. 
+* **Recommendation:** Reallocate a portion of the marketing budget from the saturated West to the Northeast to test localized growth strategies.
+
+### **3. Transaction Quality & AOV Optimization**
+* **Profitability Leakage:** While the **Average Order Value (AOV) stands at $248.24**, transaction quality fluctuates significantly across sales channels.
+* **Channel Sensitivity:** The **Online** channel drives frequency but suffers from lower AOVs compared to **Wholesale**.
+* **Recommendation:** Implement tiered pricing or "free shipping" thresholds for online orders to push the AOV closer to the $300 mark.
+
+### **4. Predictive Growth Trends**
+* **Negative Growth Warning:** Specific product lines, including **Marshmallows**, have entered a period of negative **Month-over-Month (MoM) growth**. 
+* **Early Intervention:** This decline often precedes a permanent drop in market share if left unaddressed. 
+* **Recommendation:** Bundle declining items with top-sellers (e.g., a "Confectionery Favorites" pack) to liquidate aging inventory while maintaining margins.
+
+---
 ---
 ## 📂 Repository Structure
 * **Sales_order Data.xlsx**: Raw transactional dataset.
